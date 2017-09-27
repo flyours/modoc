@@ -1,1 +1,3 @@
 # modoc
+
+moco document generator
